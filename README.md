@@ -1,4 +1,4 @@
-# kana-helper.pl - Helper for practicing in writing kana
+# kana-helper.pl - Helper for practising in writing kana
 
 
 ## Usage

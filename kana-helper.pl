@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #===============================================================================
-#  DESCRIPTION: Helper for practicing in writing kana.
+#  DESCRIPTION: Helper for practising in writing kana.
 #
 #         TODO: 
 #
@@ -259,7 +259,7 @@ __END__
 
 =head1 NAME
 
-kana-helper.pl - Helper for practicing in writing kana.
+kana-helper.pl - Helper for practising in writing kana.
 
 =head1 SYNOPSIS
 
