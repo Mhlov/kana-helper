@@ -119,11 +119,13 @@ my @sounds = qw/
     n
     ga gi gu ge go      gya gyu gyo
     za ji zu ze zo      ja ju jo
-    da di du de do      dya dyu dyo
+    da ji zu de do      ja ju jo
     ba bi bu be bo      bya byu byo
     pa pi pu pe po      pya pyu pyo
     vu
 /;
+#da di du de do      dya dyu dyo
+
 
 my $sounds_dir = "$ENV{HOME}/.local/share/kana-helper/sounds";
 
